@@ -2,8 +2,7 @@
 
 [Demo URL](https://web3-tt.vercel.app/)
 
-## Screenshot
-![Screenshot](https://res.cloudinary.com/dvbyognrh/image/upload/v1693313107/screenshots/Screenshot_from_2023-08-29_17-44-06.png Screenshot)
+![Screenshot](https://res.cloudinary.com/dvbyognrh/image/upload/v1693313107/screenshots/Screenshot_from_2023-08-29_17-44-06.png "Screenshot")
 
 ## Recommended IDE Setup
 
